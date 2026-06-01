@@ -1,6 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on IoT-based projects and enhancing my skills in Fusion 360<br><br>👯 I’m looking to collaborate on IoT, Robotics, and AI projects<br><br>🤝 I’m looking for help with Computer Vision and Advanced Robotics<br><br>🌱 I’m currently learning OpenCV, Robotics, and Fusion 360<br><br>💬 Ask me about Python, SQL, C, Mechanical Engineering, and Poetry<br><br>⚡ Fun fact: I love building things—whether it's a robot, a program, or a poem!
+🔭 I’m currently working on IoT-based projects and enhancing my skills in Fusion 360
 
+👯 I’m looking to collaborate on IoT, Robotics, Computer Vision, and AI projects
+
+🤝 I’m looking for help with ROS, Gazebo, and advanced robotics development
+
+🌱 I’m currently learning OpenCV, ROS, Gazebo, Robotics, and Fusion 360
+
+💬 Ask me about Python, SQL, C, Mechanical Engineering, Robotics, and Poetry
+
+⚡ Fun fact: I enjoy blending engineering, coding, and creativity—from designing in Fusion 360 to writing poetry.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushi-srivastava-27876232a?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sriv73440Ayushi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivastavaayushi294@gmail.com) 
